@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925963298777",
+    "firebase_url": "https://covaid-6b3fe.firebaseio.com",
+    "project_id": "covaid-6b3fe",
+    "storage_bucket": "covaid-6b3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925963298777:android:85a839358438d77be19bc8",
+        "android_client_info": {
+          "package_name": "ug.code.covaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925963298777-froi14s57u6708frkst259mtnpnt55hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtyXs9ArLjydi2xoH1SHY1SKSVj973Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925963298777-froi14s57u6708frkst259mtnpnt55hc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925963298777-41fjr14qjm0relncq4dj79f7c8ukjv2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ug.code.covaid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
